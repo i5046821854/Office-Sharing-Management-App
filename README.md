@@ -99,7 +99,7 @@ BackEnd</br>
 ```
 📂 backend > src
 ├─ 📂 main/java/dev/be/dorothy
-│    ├─ 📂 aspect ▶️ distributed lock aspect 관련 클래스 모음 
+│    ├─ 📂 aspect ▶️ aspect 관련 클래스 모음 
 │    ├─ 📂 attendance ▶️ 회원 출석 기능
 │    ├─ 📂 common ▶️ 스케줄러, 공통 응답 객체 등 공통 관심 사항
 │    ├─ 📂 config ▶️ configuration 관련 클래스 
